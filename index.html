@@ -1,12 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Hello World</title>
-</head>
-<body>
-    Hello World
-</body>
-</html>
+---
+layout: default
+title: Home
+bodyclass: home
+---
+
+<section class="posts txt-center container">
+
+  {% for post in paginator.posts %}
+    {% include article.html %}
+  {% endfor %}
+
+  {% include pagination.html %}
+
+</section>
+
