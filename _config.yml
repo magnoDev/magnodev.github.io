@@ -14,29 +14,29 @@ sass:
 
 # Site settings
 title: Magno Macedo
-description: "Meu diário"
+description: "Tecnologia, café e devaneio"
 email: magno_macedo2099@hotmail.com
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com"
-url: "http://nandomoreira.me/lora"
-repository: "https://github.com/nandomoreirame/lora"
-disqus_shortname: "fernandomoreira"
-google_analytics: UA-52446115-1
+url: "https://github.com/magnoDev"
+repository: "https://github.com/magnoDev/magnodev.github.io"
+disqus_shortname: "magno_macedo_de_oliveira"
+google_analytics: 133013039
 
 # social footer
 social:
   github:
     slug: github
-    link: http://github.com/nandomoreirame
+    link: https://github.com/magnoDev
   facebook:
     slug: facebook
-    link: http://facebook.com/fernando.dev
+    link: https://www.facebook.com/magno.macedo2099
   twitter:
     slug: twitter
-    link: http://twitter.com/nandomoreirame
+    link: https://twitter.com/Magno_Macedo89
   instagram:
     slug: instagram
-    link: http://instagram.com/nandomoreira.me
+    link: https://www.instagram.com/magno2k99
   linkedin:
     slug: linkedin
-    link: http://linkedin.com/in/nandomoreirame
+    link: https://www.linkedin.com/in/magno-oliveira89/
